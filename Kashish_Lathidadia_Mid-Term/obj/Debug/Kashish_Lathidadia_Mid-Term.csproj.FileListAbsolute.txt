@@ -1,0 +1,7 @@
+D:\conestoga\Quality\New folder\Kashish_Lathidadia_Mid-Term\Kashish_Lathidadia_Mid-Term\bin\Debug\Kashish_Lathidadia_Mid-Term.exe.config
+D:\conestoga\Quality\New folder\Kashish_Lathidadia_Mid-Term\Kashish_Lathidadia_Mid-Term\bin\Debug\Kashish_Lathidadia_Mid-Term.exe
+D:\conestoga\Quality\New folder\Kashish_Lathidadia_Mid-Term\Kashish_Lathidadia_Mid-Term\bin\Debug\Kashish_Lathidadia_Mid-Term.pdb
+D:\conestoga\Quality\New folder\Kashish_Lathidadia_Mid-Term\Kashish_Lathidadia_Mid-Term\obj\Debug\Kashish_Lathidadia_Mid-Term.csproj.AssemblyReference.cache
+D:\conestoga\Quality\New folder\Kashish_Lathidadia_Mid-Term\Kashish_Lathidadia_Mid-Term\obj\Debug\Kashish_Lathidadia_Mid-Term.csproj.CoreCompileInputs.cache
+D:\conestoga\Quality\New folder\Kashish_Lathidadia_Mid-Term\Kashish_Lathidadia_Mid-Term\obj\Debug\Kashish_Lathidadia_Mid-Term.exe
+D:\conestoga\Quality\New folder\Kashish_Lathidadia_Mid-Term\Kashish_Lathidadia_Mid-Term\obj\Debug\Kashish_Lathidadia_Mid-Term.pdb
